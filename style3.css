@@ -1,0 +1,20 @@
+body{
+   background-color: rgb(65, 48, 161);
+}
+iframe{
+   width:"380px";
+   height:"600px";
+   border-width: 5px;
+   border-color:crimson;
+   border-style: solid;
+ 
+
+}
+h3{
+   font-family: 'Luckiest Guy', cursive;
+   font-size: 70px;
+   color: crimson;
+   text-align: center;
+   
+}
+
